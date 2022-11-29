@@ -1,10 +1,13 @@
+<div align="center">
+
 ![](resources/images/logo/codem-logo.png)
 
 ***
-<center>
+
 <h1>CodeM</h1>
 
 ![](https://img.shields.io/badge/license-MIT-orange) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/orbitgw/CodeM)
+
 **Repository on**
 
 <a href="https://github.com/OrbitGW/CodeM/" target="new">
@@ -14,7 +17,7 @@
 </a>
 
 Build with 🧡 by Chirs Cheng
-</center>
+</div>
 
 # Build
 *TODO*
